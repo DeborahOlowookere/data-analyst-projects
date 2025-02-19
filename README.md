@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# Data Analysis Portfolio
 
 ## Overview  
 This repository contains various data analytics showcasing my skills in SQL, Python, Power BI, and data visualisation. Each project applies different data techniques to extract insights, analyse trends, and build data-driven solutions.  
